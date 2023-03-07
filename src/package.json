@@ -2,7 +2,7 @@
   "name": "csv-to-json",
   "version": "1.0.0",
   "description": "npm package for parsing CSV files to JSON",
-  "main": "csvtoJson.js",
+  "main": "csvToJson.js",
   "scripts": {
     "test": "node csvtoJson"
   },
