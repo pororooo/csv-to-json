@@ -1,0 +1,24 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "npm package for parsing CSV files to JSON",
+  "main": "csvtoJson.js",
+  "scripts": {
+    "test": "node csvtoJson"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pororooo/csv-to-json.git"
+  },
+  "author": "Darya Kilyachenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pororooo/csv-to-json/issues"
+  },
+  "homepage": "https://github.com/pororooo/csv-to-json#readme",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "googleapis": "^105.0.0"
+  }
+}
